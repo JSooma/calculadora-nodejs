@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculadora con las operaciones básicas suma, resta, multiplicación, división, residuo y exponencial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["calculadora", "suma", "resta", "multiplicación", "división", "residuo", "exponencial"],
+  "author": "Andrés Mendoza",
+  "license": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
